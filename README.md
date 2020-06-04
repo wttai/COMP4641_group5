@@ -32,11 +32,11 @@ The program requires ```tweepy``` package. Also, OAuth keys are required. The ke
 
 The program should run slow due to the Twitter official API rate limit.
 
-#Data collection and analysis - unofficial Twitter webscraper
+# Data collection and analysis - unofficial Twitter webscraper
 
 Author: TAI Wai Ting (Student ID: 20340470)
 
-##About the code
+## About the code
 
 The code here utilizes unofficial Twitter webscraper (Twint, GetOldTweets3) to collect user information and construct a network.
 
@@ -49,4 +49,4 @@ The code here utilizes unofficial Twitter webscraper (Twint, GetOldTweets3) to c
 
 The directory should be modified for the code to work. 
 
-Twint.py will encounter error after running for some time as the Twitter search engine blocks further query due to too high query rate. Wait for a few minutes and rerun, and it will continue on where it stopped. The data collection was performed using an automated script to rerun the code every 5 minutes after it stopped.
+```Twint.py``` will encounter error after running for some time as the Twitter search engine blocks further query due to too high query rate. Wait for a few minutes and rerun, and it will continue on where it stopped. The data collection was performed using an automated script to rerun the code every 5 minutes after it stopped.
