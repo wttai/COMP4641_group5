@@ -32,8 +32,7 @@ The program requires ```tweepy``` package. Also, OAuth keys are required. The ke
 
 The program should run slow due to the Twitter official API rate limit.
 
-
-Data collection and analysis - unofficial Twitter webscraper
+#Data collection and analysis - unofficial Twitter webscraper
 
 Author: TAI Wai Ting (Student ID: 20340470)
 
